@@ -1,11 +1,3 @@
-/*
- * EYantra
- *
- * Created: 2/8/2020 6:54:03 PM
- * Author : #254
- */ 
-
-
 #define F_CPU 16000000UL		// Define Crystal Frequency of Uno Board
 #define USART0_ENABLED
 
